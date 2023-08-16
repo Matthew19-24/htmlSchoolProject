@@ -1,0 +1,121 @@
+body
+{
+    background-color: darksalmon;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+section
+{
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    background-color: burlywood;
+    margin-top: 40px;
+}
+
+#main-title
+{
+    font-size: 2.6em;
+    font-family: cursive;
+}
+
+.info-title
+{
+    font-size: 1.7em;
+    font-family: cursive;
+    
+}
+
+img
+{
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
+
+#pharisees-and-saudducees
+{
+    width: 85%;
+}
+
+#pharisees-vs-jesus
+{
+    width: 75%;
+    margin-bottom: 25px;
+}
+
+#sinners-table
+{
+    width: 80%;
+}
+
+#burning-bush
+{
+    width: 60%;
+}
+
+.the-answer
+{
+    width: 70%;
+}
+
+p
+{
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.2em;
+    font-family: sans-serif;
+    width: 95%
+}
+
+#answers
+{
+    list-style-position: inside;
+    font-size: 1.4em;
+    font-family: cursive;
+}
+
+.verse
+{
+    color: firebrick;
+}
+
+.verse:hover
+{
+    color: yellow;
+    font-weight: bold;
+}
+
+.reference
+{
+    color: red;
+    font-weight: bold;
+}
+
+.reference:hover{
+    color: green;
+}
+
+.friendship
+{
+    border-width: .5em;
+    border-color: aqua;
+    margin-bottom: 1.5em;
+    width: 50%;
+}
+
+.friendship:visited
+{
+    border-width: .5em;
+    border-color: aqua;
+}
+
+.friendship:hover
+{
+    border-width: .5em;
+    border-color:coral;
+}
